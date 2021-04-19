@@ -9,4 +9,3 @@ distributor; same goes to section 3 and 4 with it respective global variable
 ![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/miniPipeNumDemo_step2.gif)
 
 ### 3. Roll forward slowly and fix resulting errors
-![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/miniPipeNumDemo_step3.gif)
