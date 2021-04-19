@@ -1,4 +1,12 @@
 # IMD-DCDP-design
+## Global variable identifier
+the number in front of a global variable is used to differentiate different bodies 
+
+| ID No.  | Body |
+| ------------- | ------------- |
+| 1.  | Hot Gas Distributor  |
+| 2.  | Drying Drum  |
+
 ## Modifying the amount of miniPipes 
 ### 1. Roll back timeline to "#ABOVE_THIS"
 ![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/miniPipeNumDemo_step1.gif)
