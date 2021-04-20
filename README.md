@@ -8,7 +8,7 @@ the number in front of a global variable is used to differentiate different bodi
 | 2.  | Drying Drum  |
 
 ## Modifying the amount of miniPipes 
-### 1. Roll back timeline to "#ABOVE_THIS"
+### 1. Roll back timeline to "#ABOVE_THIS" (Optional)
 ![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/miniPipeNumDemo_step1.gif)
 
 ### 2. Modify the amount in the desired section
