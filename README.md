@@ -1,4 +1,6 @@
 # IMD-DCDP-design
+## Current State 
+![](.\assets\current.png)
 
 ## Buildchecks
 check if the build would be successful. if the value in "Evalutes to" is <br/>
