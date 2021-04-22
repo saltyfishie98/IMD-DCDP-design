@@ -1,6 +1,6 @@
 # IMD-DCDP-design
 ## Current State 
-![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/current.png)
+![](https://github.com/saltyfishie98/IMD-DCDP-design/blob/master/assets/current.jpg)
 
 ## Buildchecks
 check if the build would be successful. if the value in "Evalutes to" is <br/>
